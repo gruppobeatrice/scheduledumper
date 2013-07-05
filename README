@@ -1,0 +1,18 @@
+SCHEDULE DUMPER
+
+utility per la generazione del file orario current.gap
+
+questa utility e' un sostituto temporaneo all'originale
+file current.gap distribuito dal dipartimento di informatica.
+Viene generato a partire dall'orario provvisorio di occupazione
+delle aulee fornito su internet.
+
+Alcune informazioni non essenziali per la consultazione dell'orario
+sono state omesse: in particolare i dati di anno di corso, tipo di laurea
+e codice del corso sono stati sostituiti con dei dati riempitivi.
+
+per usare lo script e' sufficiente invocarlo con ./sch.py
+per aver informazioni dettagliate sulle opzioni disponibili
+usare l'ozpione -h:
+
+    ./sch.py -h
